@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Virtual envs
+.venv/
+venv/
+
+# OS junk
+.DS_Store

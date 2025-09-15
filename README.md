@@ -1,3 +1,3 @@
 # Calculator Assignment
 
-This is the initial commit for the calculator assignment.
+This is my repository for Module 2's calulator assignment. 
